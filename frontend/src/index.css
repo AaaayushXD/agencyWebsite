@@ -1,0 +1,13 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+@layer {
+  body {
+    background-color: #e7e9ee;
+  }
+}
